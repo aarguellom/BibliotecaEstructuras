@@ -4,7 +4,7 @@
  */
 package bibliotecavirtual;
 
-
+//Comentario
 import java.util.Stack;
 
 public class BibliotecaVirtual {
